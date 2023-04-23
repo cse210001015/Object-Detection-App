@@ -12,7 +12,7 @@ To install the app, follow these steps:
 
 Run one of the backend servers:
 
-https://colab.research.google.com/drive/1QX1DsIdsJfnIfzDnh-ysDYIfIlna37UV?usp=sharing
+https://colab.research.google.com/drive/1xRp_MWZwU7QdBwtVpbMTl85maIwuQgd1?usp=sharing
 
 https://github.com/cse210001015/Object-Detection-App/tree/main/Backend
 
