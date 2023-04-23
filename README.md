@@ -12,7 +12,7 @@ Run one of the backend servers:
 
 https://colab.research.google.com/drive/1QX1DsIdsJfnIfzDnh-ysDYIfIlna37UV?usp=sharing
 
-https://github.com/cse210001015/Object-Detection-App-Backend
+https://github.com/cse210001015/Object-Detection-App-Frontend/tree/main/Backend
 
 Then run the backend to get a public url of ngrok.
 
