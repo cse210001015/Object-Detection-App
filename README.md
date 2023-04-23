@@ -1,6 +1,6 @@
 # Object Detection App Documentation
 
-#Frontend
+# Frontend
 
 ## Introduction
 
