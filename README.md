@@ -120,4 +120,10 @@ To use a custom model for detection load the model using torch.load() and pass i
 
 ## Algorithm
 
-The code uses yolov7. Paper:https://arxiv.org/abs/2207.02696. Github Link:https://github.com/WongKinYiu/yolov7.License:GNU General Public License v3.0.
+The code uses yolov7.
+
+Paper:https://arxiv.org/abs/2207.02696. 
+
+Github Link:https://github.com/WongKinYiu/yolov7.
+
+License:GNU General Public License v3.0.
