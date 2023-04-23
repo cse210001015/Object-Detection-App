@@ -90,7 +90,15 @@ The backend is now running and listening for incoming requests from the app.
 
 ##  Object Detection Algorithm
 
-The backend uses the TensorFlow Object Detection API to detect objects in images and videos. The API provides pre-trained models for object detection that can be fine-tuned or used directly for specific use cases. The backend loads the model and performs object detection on the input data, returning the results in the specified output format. The model used is coco ssd which has an apache licence.
+The backend uses the TensorFlow Object Detection API to detect objects in images and videos. The API provides pre-trained models for object detection that can be fine-tuned or used directly for specific use cases. The backend loads the model and performs object detection on the input data, returning the results in the specified output format. 
+
+Model:Coco SSD
+
+Paper:https://arxiv.org/abs/1512.02325
+
+Github Link:https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd
+
+License:Apache License 2.0.
 
 ## Custom Algorithm
 
