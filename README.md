@@ -64,7 +64,7 @@ Check that your device is connected to the internet.
 
 Ensure that the input image or video is in a supported format.
 
-# Backend 
+# Backend Node js
 
 ## Introduction
 
@@ -110,3 +110,14 @@ Check that the pre-trained model is loaded and functioning correctly.
 
 Check that the output format is correctly specified in the app request.
 
+# Backend Python documentation
+
+You can go the link and run all the code cells. The last cell will generate a ngrok link. Put this link in the frontend in ImageDetection.js in axios.post and in ObjectDetectionpy.js in new Websocket as link/ws.
+
+Now you may run the frontend to run the app allow the last cell to keep running as long as you want to use the app.
+
+To use a custom model for detection load the model using torch.load() and pass it along with path to detect_img and detect_video.
+
+## Algorithm
+
+The code uses yolov7. Paper:https://arxiv.org/abs/2207.02696. Github Link:https://github.com/WongKinYiu/yolov7.License:GNU General Public License v3.0.
